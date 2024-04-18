@@ -519,6 +519,7 @@ header nav .form i {
   margin: 30px auto;
   text-decoration: none;
   text-transform: uppercase;
+  border-radius: 8px;
 }
 
 /* End Portfolio */
@@ -563,11 +564,12 @@ header nav .form i {
 }
 
 .video .text button {
-  background-color: black;
+  background-color: #2f2f2f;
   color: white;
   padding: 10px 20px;
   border: none;
   text-transform: uppercase;
+  border-radius: 8px;
 }
 
 .video .text button:hover {
