@@ -251,6 +251,7 @@ header nav .form i {
 
   .landing {
     background-image: url(../imgs/design-section.jpg);
+    background-position: center;
   }
 
   .landing .text .content {
